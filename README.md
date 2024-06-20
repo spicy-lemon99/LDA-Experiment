@@ -1,2 +1,2 @@
 # LDA-test
- testing if the LDA can find the original distribution of the data
+ Diese Arbeit untersucht die Anwendbarkeit von Latent Dirichlet Allocation (LDA), einem generativen probabilistischen Modell für die Themenmodellierung. LDA basiert auf der Annahme, dass jedes Textdokument eine Verteilung von Themen aufweist, wobei jedes Thema wiederum eine Verteilung von Wörtern hat. Das Ziel dieser Arbeit besteht darin, ein Experiment mit Python durchzuführen. Dabei sollen künstliche Daten mit vorgegebenen Verteilungen generiert werden, um zu überprüfen, ob LDA diese Verteilungen in den künstlich erzeugten Daten identifizieren kann. Abschließend werden die Ergebnisse dieser Experimente visualisiert.
